@@ -8,7 +8,7 @@ A curated collection of end-to-end Data Analytics and Business Intelligence proj
 
 | # | Project Name | Tech Stack | Domain / Dataset | Key Highlights |
 |---|:---|:---|:---|:---|
-| 1 | **[t20Match_Analysis](./t20Match_Analysis)** | Python, Pandas, Power BI, DAX, Power Query | Cricket / T20 World Cup | Best 11 team selection using role-based metric filtering & interactive Power BI dashboard |
+| 1 | **[(1) t20Match_Analysis](./(1)%20t20Match_Analysis)** | Python, Pandas, Power BI, DAX, Power Query | Cricket / T20 World Cup | Best 11 team selection using role-based metric filtering & interactive Power BI dashboard |
 
 ---
 
