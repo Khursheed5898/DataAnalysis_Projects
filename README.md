@@ -1,10 +1,37 @@
-# 📊 Data Analysis Projects Repository
+# 📊 Data Analysis & Business Intelligence Portfolio
 
-A curated collection of end-to-end Data Analytics and Business Intelligence projects covering data extraction (web scraping), data cleaning & transformation (Python / Pandas), data modeling, and interactive dashboards (Power BI / DAX).
+A curated collection of end-to-end Data Analytics, Machine Learning, and Business Intelligence projects covering web scraping, data ETL pipelines, data modeling (Star Schema), DAX calculations, and interactive Power BI dashboards.
 
 ---
 
-## 📁 Projects Included
+## 📜 Certifications & Job Simulations
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="assets/certificates/Certificate-01.png"><img src="assets/certificates/Certificate-01.png" alt="Tata Data Visualisation Certificate" width="100%"/></a><br><br>
+      <b>Tata - Data Visualisation</b><br>
+      <sub>Empowering Business with Effective Insights</sub><br>
+      <small><i>Issued by Tata & Forage (Sep 2026)</i></small>
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/certificates/Certificate-02.png"><img src="assets/certificates/Certificate-02.png" alt="Tata GenAI Powered Data Analytics Certificate" width="100%"/></a><br><br>
+      <b>Tata - GenAI Data Analytics</b><br>
+      <sub>GenAI Powered Data Analytics Job Simulation</sub><br>
+      <small><i>Issued by Tata & Forage (Sep 2026)</i></small>
+    </td>
+    <td align="center" width="33%">
+      <a href="assets/certificates/Certificate-03.png"><img src="assets/certificates/Certificate-03.png" alt="Quantium Data Analytics Certificate" width="100%"/></a><br><br>
+      <b>Quantium - Data Analytics</b><br>
+      <sub>Retail Strategy & Customer Analytics</sub><br>
+      <small><i>Issued by Quantium & Forage (Aug 2025)</i></small>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📁 Featured Projects
 
 | # | Project Name | Tech Stack | Domain / Dataset | Key Highlights |
 |---|:---|:---|:---|:---|
@@ -13,7 +40,14 @@ A curated collection of end-to-end Data Analytics and Business Intelligence proj
 ---
 
 ## 🛠️ Global Tech Stack
-- **Languages & Libraries:** Python (Pandas, NumPy, BeautifulSoup, Requests)
-- **Analytics & BI Tools:** Microsoft Power BI, DAX, Power Query
+- **Languages & Libraries:** Python (`Pandas`, `NumPy`, `Requests`, `JSON`)
+- **Analytics & BI Tools:** Microsoft Power BI, DAX, Power Query, Excel
 - **Notebooks & Environments:** Jupyter Notebook, VS Code
-- **Version Control:** Git & GitHub
+- **Version Control & Collaboration:** Git & GitHub
+
+---
+
+## 👤 Author & Connect
+- **Developer:** [Khursheed Alam](https://khursheed4k.vercel.app) 🚀
+- **Portfolio:** [khursheed4k.vercel.app](https://khursheed4k.vercel.app)
+- **GitHub:** [@Khursheed5898](https://github.com/Khursheed5898)
